@@ -1,7 +1,7 @@
 ﻿{
   "maintainer": "RuiQ24",
   "source": {
-    "subpath": "/",
+    "subpath": ".",
     "ref": "main",
     "repo": "RuiQ24/astrbot-meme-pack",
     "type": "github"
